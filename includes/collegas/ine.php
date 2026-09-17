@@ -3,4 +3,5 @@
 	<h4>Ine Vermeer </h4>
 	<p>docent WEB/SLB</p>
 	<a href="mailto:e.vermeer@curio.nl">e.vermeer@curio.nl</a>
+	<p>t/m april met verlof</p>
 </div>
