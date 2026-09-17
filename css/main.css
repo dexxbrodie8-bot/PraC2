@@ -179,7 +179,9 @@ h4{
 
 /*================header=======================*/
 header{
-  background-color: rgba(255, 255, 255, 0.95);
+  background-color: #ffffff;
+  border-top: 3px solid #015940;
+  box-shadow: 0 2px 6px #96b7ae;
   position: fixed;
   top:0;
   z-index: 10;
@@ -212,7 +214,7 @@ nav a{
   letter-spacing: 6px;
 }
 nav a:hover{
-  background-color: #fff;
+  background-color: #015940;
   color: black;
 }
 
