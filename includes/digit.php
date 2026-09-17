@@ -1,7 +1,7 @@
-<div class="parallex bgimg-digit" id="div">
+<div class="parallex bgimg-div" id="div">
     <div class="opacity">
         <div class="ph15 pcenter">
-            <h2>KZD: Keuzedeel digitale vaardigheden</h2>
+            <h2>DIV: Keuzedeel digitale vaardigheden</h2>
         </div>
     </div>
 </div>
