@@ -253,9 +253,11 @@ article img{
   justify-content: space-around;
 }
 .collega img{
-  height: 60px;
+  height: 40px;
   border: 4px solid #015940;;
-  border-radius: 50%;
+  
+  padding: 2px;
+  margin: 10px;
 }
 
 /*==================footer=========================*/
