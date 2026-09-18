@@ -4,13 +4,13 @@
 		<div class="ph15 pcenter">
 				<div class="adres">
 					<ul>
-						<li><p>Adresgegevens
+						<li><p>Adresgegevens</li>
 							Terheijdenseweg 350
 						4826 AA Breda</p></li>
 						<li><p>Telefoonnummer
 						076-5733444</p></li>
 						<li><p>E-mailadres
-						radiuscollege@curio.nl</p></li>
+						<a href="mailto:radiuscollege@curio.nl">radiuscollege@curio.nl</a></p></li>
 					</ul>
 				</div>
 				<div class="social">
