@@ -99,26 +99,23 @@ body{
   color: #015940;
 }
 
-.bgimg-banner{
-  background-image: url('../img/background-banner.webp');
-}
 .bgimg-web{
-  background: url(../img/background-web.png);
+  background: url(../img/background-web.webp);
 }
 .bgimg-win{
-  background: url(../img/background-win.jpg);
+  background: url(../img/background-win.webp);
 }
 .bgimg-pra{
-  background: url(../img/background-pra.jpg);
+  background: url(../img/background-pra.webp);
 }
 .bgimg-pro{
-  background: url(../img/background-pro.png);
+  background: url(../img/background-pro.webp);
 }
 .bgimg-div{
-  background: url(../img/background-div.jpg);
+  background: url(../img/background-div.webp);
 }
 .bgimg-footer{
-  background-image: url('../img/background-footer.jpg');
+  background-image: url('../img/background-footer.webp');
 }
 
 .parallex{
