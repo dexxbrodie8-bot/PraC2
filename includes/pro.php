@@ -15,6 +15,9 @@
 				<span id="readmore-text">We noemen PRO dan ook wel <em>professionalisering</em>. Je leert over alle zaken die jou tot een echte developer maken, want dat is meer dan alleen kunnen programmeren. Denk bij PRO dus aan onderwerpen als plannen, ontwerpen, testen, opleveren, samenwerken, enzovoort.</span>
 				<a id="readmore-link" href="javascript:void(0)">Lees meer...</a>
 			</p>
+
+
+			
 			<h3>docenten</h3>
 			<div class="team">
 				<?php 
