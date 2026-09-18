@@ -98,7 +98,9 @@ body{
   font-size: 15px;
   color: #015940;
 }
-
+.bgimg-banner{
+  background-image: url('../img/background-banner.webp');
+}
 .bgimg-web{
   background: url(../img/background-web.png);
 }
