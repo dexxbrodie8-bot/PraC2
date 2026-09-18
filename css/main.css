@@ -100,22 +100,22 @@ body{
 }
 
 .bgimg-web{
-  background: url(../img/background-web.webp);
+  background: url(../img/background-web.png);
 }
 .bgimg-win{
-  background: url(../img/background-win.webp);
+  background: url(../img/background-win.jpg);
 }
 .bgimg-pra{
-  background: url(../img/background-pra.webp);
+  background: url(../img/background-pra.jpg);
 }
 .bgimg-pro{
-  background: url(../img/background-pro.webp);
+  background: url(../img/background-pro.png);
 }
 .bgimg-div{
-  background: url(../img/background-div.webp);
+  background: url(../img/background-div.jpg);
 }
 .bgimg-footer{
-  background-image: url('../img/background-footer.webp');
+  background-image: url('../img/background-footer.jpg');
 }
 
 .parallex{
